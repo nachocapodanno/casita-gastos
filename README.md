@@ -9,6 +9,7 @@
 
 - [Download from Github](https://github.com/nachocapodanno/casita-gastos).
 - `npm i`
+- `npm start`
 
 ## File Structure
 Within this project you'll find the following directories and files:
